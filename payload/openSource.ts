@@ -4,55 +4,54 @@ const openSource: IOpenSource.Payload = {
   disable: false,
   list: [
     {
-      title: 'node',
+      title: 'Babylon',
       descriptions: [
-        { content: 'Node.js JavaScript runtime' },
         { content: 'Contributor' },
         {
-          content: 'https://github.com/nodejs/node',
-          href: 'https://github.com/nodejs/node',
-        },
-        {
-          content: 'Github Stars: ',
-          postImage: 'https://img.shields.io/github/stars/nodejs/node.svg?style=popout',
-        },
-      ],
-    },
-    {
-      title: 'NestJS',
-      descriptions: [
-        {
-          content: 'A progressive Node.js framework',
-        },
-        {
-          content:
-            'for building efficient, scalable, and enterprise-grade server-side applications',
-        },
-        {
-          content: 'Contributor',
-        },
-        {
-          content: 'https://github.com/nestjs/nest',
-          href: 'https://github.com/nestjs/nest',
-        },
-        {
-          content: 'Monthly Download: ',
-          postImage: 'https://img.shields.io/npm/dm/@nestjs/core.svg',
-        },
-        {
-          content: 'Github Stars: ',
-          postImage: 'https://img.shields.io/github/stars/nestjs/nest.svg?style=popout',
+          content: 'Epic: Separate BLS key from priv_validator_key.json (#336)',
+          href: 'https://github.com/babylonlabs-io/babylon/issues/336',
+          descriptions: [
+            {
+              content: 'PR: Separate BLS Key with ERC2335 implementaion (#396)',
+              href: 'https://github.com/babylonlabs-io/babylon/pull/396',
+            },
+            {
+              content: 'PR: Refactor BLS key structure and add migration (#434)',
+              href: 'https://github.com/babylonlabs-io/babylon/pull/434',
+            },
+            {
+              content: 'PR: Support remote signer (#462)',
+              href: 'https://github.com/babylonlabs-io/babylon/pull/462',
+            },
+            {
+              content: 'PR: Add empty bls password option and refactoring (#471)',
+              href: 'https://github.com/babylonlabs-io/babylon/pull/471',
+            },
+            {
+              content: 'PR: Refactor BLS public key format from file (#558)',
+              href: 'https://github.com/babylonlabs-io/babylon/pull/558',
+            },
+          ],
         },
       ],
     },
     {
-      title: 'Developer Community',
+      title: 'BTC Staker',
       descriptions: [
+        { content: 'Contributor' },
         {
-          content: 'Presentation in 2019',
-        },
-        {
-          content: 'Hackathon participation in 2017',
+          content: 'Issue: BTC Staker Improvement (#107)',
+          href: 'https://github.com/babylonlabs-io/btc-staker/issues/107',
+          descriptions: [
+            {
+              content: 'PR: Remove watch-staking and post-approval (#131)',
+              href: 'https://github.com/babylonlabs-io/btc-staker/pull/131',
+            },
+            {
+              content: 'PR: Reduce the amount of state held in the database (#134)',
+              href: 'https://github.com/babylonlabs-io/btc-staker/pull/134',
+            },
+          ],
         },
       ],
     },

@@ -1,107 +1,95 @@
 import { ISkill } from '../component/skill/ISkill';
 
-const backend: ISkill.Skill = {
-  category: 'Back-end',
+const pl: ISkill.Skill = {
+  category: 'Programming Languages',
   items: [
     {
-      title: 'Node.js',
-      level: 3,
+      title: 'Golang',
+      // level: 3,
     },
     {
-      title: 'AWS',
-      level: 3,
-    },
-    {
-      title: 'PHP',
-      level: 2,
+      title: 'Solidity',
+      // level: 3,
     },
     {
       title: 'Java',
-      level: 1,
-    },
-    {
-      title: 'Python',
-      level: 1,
+      // level: 3,
     },
     {
       title: 'C/C++',
-      level: 1,
+      // level: 2,
+    },
+    {
+      title: 'JavaScript',
+      // level: 1,
+    },
+    {
+      title: 'TypeScript',
+      // level: 1,
     },
   ],
 };
 
-const database: ISkill.Skill = {
-  category: 'Database',
+const bc: ISkill.Skill = {
+  category: 'Blockchain',
   items: [
     {
-      title: 'MySQL',
-      level: 3,
+      title: 'Hyperledger fabric',
+      // level: 3,
     },
     {
-      title: 'Oracle',
-      level: 2,
+      title: 'Ethereum(Besu, Quorum)',
+      // level: 3,
     },
     {
-      title: 'Redis',
-      level: 2,
-    },
-    {
-      title: 'MongoDB',
-      level: 1,
+      title: 'Cosmos',
+      // level: 2,
     },
   ],
 };
 
-const frontend: ISkill.Skill = {
-  category: 'Front-end',
+const tool: ISkill.Skill = {
+  category: 'Tools',
   items: [
     {
-      title: 'Next.js',
-      level: 2,
+      title: 'Truffle',
+      // level: 3,
     },
     {
-      title: 'React.js',
-      level: 2,
+      title: 'Hardhat',
+      // level: 3,
     },
     {
-      title: 'javascript',
-      level: 2,
+      title: 'Docker',
+      // level: 3,
     },
     {
-      title: 'HTML/CSS',
-      level: 2,
+      title: 'Kubernetes',
+      // level: 2,
     },
   ],
 };
 
-const etc: ISkill.Skill = {
-  category: 'Etc',
+const cert: ISkill.Skill = {
+  category: 'Certification',
   items: [
     {
-      title: 'Ubuntu',
+      title: 'CKA(Certified Kubernetes Administrator)',
     },
     {
-      title: 'Vim',
+      title: 'CHFA(Certified Hyperledger Fabric Administrator)',
     },
     {
-      title: 'Security',
-    },
-    {
-      title: 'VS Code',
-    },
-    {
-      title: 'Jira',
-    },
-    {
-      title: 'Confluence',
+      title: 'Corda Certified Developer',
     },
   ],
 };
 
 const skill: ISkill.Payload = {
   disable: false,
-  skills: [backend, database, frontend, etc],
-  tooltip: '1: 기초 수준\n2: 취미 개발 수준\n3: Production 개발 가능 수준',
+  skills: [pl, bc, tool, cert],
+  // tooltip:
+  // '1: Interested and using it as a hobby\n2: Have applied it in work\n3: Used in various work tasks',
 };
 
 export default skill;
