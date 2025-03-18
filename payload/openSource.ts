@@ -33,6 +33,17 @@ const openSource: IOpenSource.Payload = {
             },
           ],
         },
+        {
+          content: 'Avoid creating pop in babylond tx checkpointing create-validator (#669)',
+          href: 'https://github.com/babylonlabs-io/babylon/issues/669',
+          descriptions: [
+            {
+              content:
+                'PR: Avoid creating pop in babylond tx checkpointing create-validator (#682)',
+              href: 'https://github.com/babylonlabs-io/babylon/pull/682',
+            },
+          ],
+        },
       ],
     },
     {
