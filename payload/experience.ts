@@ -7,6 +7,7 @@ const experience: IExperience.Payload = {
       title: 'B-Harvest',
       position: 'Blockchain Core R&D Engineer',
       startedAt: '2024-11',
+      endedAt: '2025-04',
       descriptions: [
         'Develop Cosmos SDK based Appchain',
         'Contribute to open source project using Cosmos SDK based Appchain',
