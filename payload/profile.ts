@@ -47,10 +47,7 @@ const profile: IProfile.Payload = {
     // },
   ],
   notice: {
-    title:
-      'Software engineer with a focus on blockchain, embracing challenges in diverse environments and shaping the future of Web3.‍',
-    // title: 'Status : Open to new opportunities and challenges 🙋‍♂️',
-    // title: 'Status : 작성중입니다 🔧',
+    title: 'Status : Open to new opportunities and challenges 🙋‍♂️',
     icon: faBell,
   },
 };
