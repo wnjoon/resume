@@ -44,6 +44,20 @@ const openSource: IOpenSource.Payload = {
             },
           ],
         },
+        {
+          content: 'BLS improvements (#798)',
+          href: 'https://github.com/babylonlabs-io/babylon/issues/798',
+          descriptions: [
+            {
+              content: 'PR: BLS improvement including permission and and verification cmd (#850)',
+              href: 'https://github.com/babylonlabs-io/babylon/pull/850',
+            },
+            {
+              content: 'PR: create update-bls-password cmd (#871)',
+              href: 'https://github.com/babylonlabs-io/babylon/pull/871',
+            },
+          ],
+        },
       ],
     },
     {
@@ -63,6 +77,10 @@ const openSource: IOpenSource.Payload = {
               href: 'https://github.com/babylonlabs-io/btc-staker/pull/134',
             },
           ],
+        },
+        {
+          content: 'PR: Move stakerapp creation from main to stakerservice (#157)',
+          href: 'https://github.com/babylonlabs-io/btc-staker/pull/157',
         },
       ],
     },
