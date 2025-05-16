@@ -6,9 +6,8 @@ const openSource: IOpenSource.Payload = {
     {
       title: 'Babylon',
       descriptions: [
-        { content: 'Contributor' },
         {
-          content: 'Epic: Separate BLS key from priv_validator_key.json (#336)',
+          content: 'Issue: Separate BLS key from priv_validator_key.json (#336)',
           href: 'https://github.com/babylonlabs-io/babylon/issues/336',
           descriptions: [
             {
@@ -34,7 +33,7 @@ const openSource: IOpenSource.Payload = {
           ],
         },
         {
-          content: 'Avoid creating pop in babylond tx checkpointing create-validator (#669)',
+          content: 'Issue: Avoid creating pop in babylond tx checkpointing create-validator (#669)',
           href: 'https://github.com/babylonlabs-io/babylon/issues/669',
           descriptions: [
             {
@@ -45,7 +44,7 @@ const openSource: IOpenSource.Payload = {
           ],
         },
         {
-          content: 'BLS improvements (#798)',
+          content: 'Issue: BLS improvements (#798)',
           href: 'https://github.com/babylonlabs-io/babylon/issues/798',
           descriptions: [
             {
@@ -58,12 +57,16 @@ const openSource: IOpenSource.Payload = {
             },
           ],
         },
+        {
+          content:
+            'Issue: Check for bls_key.json Before Asking for Password in BLS-Related Commands (#917)',
+          href: 'https://github.com/babylonlabs-io/babylon/issues/917',
+        },
       ],
     },
     {
       title: 'BTC Staker',
       descriptions: [
-        { content: 'Contributor' },
         {
           content: 'Issue: BTC Staker Improvement (#107)',
           href: 'https://github.com/babylonlabs-io/btc-staker/issues/107',
@@ -79,8 +82,13 @@ const openSource: IOpenSource.Payload = {
           ],
         },
         {
-          content: 'PR: Move stakerapp creation from main to stakerservice (#157)',
-          href: 'https://github.com/babylonlabs-io/btc-staker/pull/157',
+          content: 'Code-Driven Improvements',
+          descriptions: [
+            {
+              content: 'PR: Move stakerapp creation from main to stakerservice (#157)',
+              href: 'https://github.com/babylonlabs-io/btc-staker/pull/157',
+            },
+          ],
         },
       ],
     },
