@@ -61,6 +61,12 @@ const openSource: IOpenSource.Payload = {
           content:
             'Issue: Check for bls_key.json Before Asking for Password in BLS-Related Commands (#917)',
           href: 'https://github.com/babylonlabs-io/babylon/issues/917',
+          descriptions: [
+            {
+              content: 'PR: Improve BLS file check order in related commands (#924)',
+              href: 'https://github.com/babylonlabs-io/babylon/pull/924',
+            },
+          ],
         },
       ],
     },
