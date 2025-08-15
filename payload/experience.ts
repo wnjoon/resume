@@ -7,9 +7,7 @@ const experience: IExperience.Payload = {
       title: 'Globaleur',
       position: 'Backend Engineer',
       startedAt: '2025-05',
-      descriptions: [
-        'Develop AI-based travel agent application using golang',
-      ],
+      descriptions: ['Develop AI-based travel agent application using golang'],
       skillKeywords: ['Golang', 'AI', 'Travel Agent'],
     },
     {
