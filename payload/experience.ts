@@ -4,6 +4,15 @@ const experience: IExperience.Payload = {
   disable: false,
   list: [
     {
+      title: 'Globaleur',
+      position: 'Backend Engineer',
+      startedAt: '2025-05',
+      descriptions: [
+        'Develop AI-based travel agent application using golang',
+      ],
+      skillKeywords: ['Golang', 'AI', 'Travel Agent'],
+    },
+    {
       title: 'B-Harvest',
       position: 'Blockchain Core R&D Engineer',
       startedAt: '2024-11',
