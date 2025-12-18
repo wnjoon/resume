@@ -151,6 +151,8 @@ title: Wonjoon Lee - Resume
 
 ## EDUCATION
 
-**M.S. in Computer Science** • *Chungnam National University* • *Feb 2018*
-
-**B.S. in Computer Science** • *Chungnam National University* • *Feb 2014*
+**M.S. in Computer Science** 
+  * *Chungnam National University (Feb 2018)*
+  
+**B.S. in Computer Science** 
+  * *Chungnam National University (Feb 2014)*
