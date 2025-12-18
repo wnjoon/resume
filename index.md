@@ -62,21 +62,21 @@ Seoul, South Korea | [wnjoon@gmail.com](mailto:wnjoon@gmail.com) | [LinkedIn](ht
 
 * Successfully migrated Hyperledger Fabric networks to **Google Kubernetes Engine (GKE)**, designing scalable cluster configurations (CA, Peer, Orderer).
 * Developed script-based tools for automated node management (scaling, certificate rotation), reducing operational overhead by simplifying complex manual processes.
-* Established a comprehensive monitoring stack using **Prometheus** and **Grafana** to visualize network metrics and ensure high availability.
+* Established a comprehensive monitoring stack using Prometheus and Grafana to visualize network metrics and ensure high availability.
 
 ### LG CNS
 **Blockchain Software Engineer** | *Seoul, South Korea* | *May 2023 – Nov 2024* | Onsite
 
 * Architected and developed a high-throughput Security Token issuance and distribution platform using **Hyperledger Besu**.
-* Built an asynchronous transaction processing engine using **Kafka** and a real-time block listener, optimizing the system for high-volume financial events.
+* Built an asynchronous transaction processing engine using Kafka and a real-time block listener, optimizing the system for high-volume financial events.
 * Developed a scalable API gateway to orchestrate communication between diverse internal microservices.
-* Implemented customized **ERC20, ERC1400** smart contracts to meet specific Korean financial regulations, including logic for Whitelisting and Multi-party trading.
+* Implemented customized ERC20/ERC1400 smart contracts to meet specific Korean financial regulations, including logic for Whitelisting and Multi-party trading.
 
 ### Samsung Securities
 **Senior Engineer** | *Seoul, South Korea* | *Feb 2022 – May 2023* | Onsite
 
 * Architected and developed a high-throughput Security Token issuance and distribution platform using **Quorum**.
-* Implemented an on-chain order book smart contract to facilitate decentralized trading, ensuring system reliability through comprehensive testing scenarios.
+* Implemented an on-chain order book and customized ERC20/ERC1400 contracts to facilitate decentralized trading, ensuring system reliability through comprehensive testing scenarios.
 * Re-architected the multi-signature wallet system, enabling secure off-chain signature generation and pre-confirmation workflows.
 * Developed a specialized Private Ethereum client to handle proprietary event listening and node monitoring requirements.
 
@@ -117,9 +117,9 @@ Seoul, South Korea | [wnjoon@gmail.com](mailto:wnjoon@gmail.com) | [LinkedIn](ht
 
 ## SKILLS
 
-* **Languages:** Golang, Solidity, Java, C/C++, JavaScript/TypeScript
+* **Languages:** Golang, Solidity, Java, JavaScript/TypeScript, C/C++
 * **Blockchain:** Ethereum (Geth, Besu, Quorum), Hyperledger Fabric, Cosmos SDK
-* **Infrastructure & Tools:** Docker, Kubernetes, Kafka, Foundry, Truffle, Hardhat, AWS/GCP
+* **Infrastructure & Tools:** Docker, Kubernetes, Kafka, Foundry, Truffle, Hardhat
 
 <br>
 
