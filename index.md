@@ -24,12 +24,29 @@ title: Wonjoon Lee - Resume
     max-width: 900px !important;
     margin: 0 auto !important;
   }
+
+  .contact-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+  }
+
+  .contact-link + .contact-link {
+    border-left: 1px solid currentColor;
+    padding-left: 12px;
+    margin-left: 12px;
+  }
 </style>
 
 # Wonjoon Lee
 ### Software Engineer
 
-[wnjoon@gmail.com](mailto:wnjoon@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wonjoon/) | [GitHub](https://github.com/wnjoon) | [Blog](https://wnjoon.github.io/)
+<div class="contact-links">
+  <span class="contact-link"><a href="mailto:wnjoon@gmail.com">wnjoon@gmail.com</a></span>
+  <span class="contact-link"><a href="https://www.linkedin.com/in/wonjoon/">LinkedIn</a></span>
+  <span class="contact-link"><a href="https://github.com/wnjoon">GitHub</a></span>
+  <span class="contact-link"><a href="https://wnjoon.github.io/">Blog</a></span>
+</div>
 
 <br>
 
@@ -132,9 +149,5 @@ title: Wonjoon Lee - Resume
 
 <br>
 
-## EDUCATION
-
-**M.S. in Computer Science**
-* Chungnam National University | *Mar 2014 – Feb 2018*
-**B.S. in Computer Science**
-* Chungnam National University | *Mar 2007 – Feb 2014*
+* **M.S. in Computer Science** | *Chungnam National University* | *Feb 2018*
+* **B.S. in Computer Science** | *Chungnam National University* | *Feb 2014*
