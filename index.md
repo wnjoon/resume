@@ -65,7 +65,7 @@ Seoul, South Korea | [wnjoon@gmail.com](mailto:wnjoon@gmail.com) | [LinkedIn](ht
 * Established a comprehensive monitoring stack using Prometheus and Grafana to visualize network metrics and ensure high availability.
 
 ### LG CNS
-**Blockchain Software Engineer** | *Seoul, South Korea* | *May 2023 – Nov 2024* | Onsite
+**Senior Software Engineer** | *Seoul, South Korea* | *May 2023 – Nov 2024* | Onsite
 
 * Architected and developed a high-throughput Security Token issuance and distribution platform using **Hyperledger Besu**.
 * Built an asynchronous transaction processing engine using Kafka and a real-time block listener, optimizing the system for high-volume financial events.
@@ -73,7 +73,7 @@ Seoul, South Korea | [wnjoon@gmail.com](mailto:wnjoon@gmail.com) | [LinkedIn](ht
 * Implemented customized ERC20/ERC1400 smart contracts to meet specific Korean financial regulations, including logic for Whitelisting and Multi-party trading.
 
 ### Samsung Securities
-**Senior Engineer** | *Seoul, South Korea* | *Feb 2022 – May 2023* | Onsite
+**Software Engineer** | *Seoul, South Korea* | *Feb 2022 – May 2023* | Onsite
 
 * Architected and developed a high-throughput Security Token issuance and distribution platform using **Quorum**.
 * Implemented an on-chain order book and customized ERC20/ERC1400 contracts to facilitate decentralized trading, ensuring system reliability through comprehensive testing scenarios.
@@ -81,7 +81,7 @@ Seoul, South Korea | [wnjoon@gmail.com](mailto:wnjoon@gmail.com) | [LinkedIn](ht
 * Developed a specialized Private Ethereum client to handle proprietary event listening and node monitoring requirements.
 
 ### LG CNS
-**Blockchain Software Engineer** | *Seoul, South Korea* | *Jul 2018 – Feb 2022* | Hybrid
+**Senior Software Engineer** | *Seoul, South Korea* | *Jul 2018 – Feb 2022* | Hybrid
 
 * Designed the system architecture for an NFT platform connecting **Hyperledger Fabric** with Public Mainnets, including CEX wallet integration.
 * Prototyped and tested an Ethereum-based NFT marketplace, implementing core smart contract functionalities for token minting and trading to validate technical feasibility.
