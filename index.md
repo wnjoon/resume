@@ -29,7 +29,7 @@ title: Wonjoon Lee - Resume
 # Wonjoon Lee
 ### Software Engineer
 
-Seoul, South Korea | [wnjoon@gmail.com](mailto:wnjoon@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wonjoon/) | [GitHub](https://github.com/wnjoon) | [Blog](https://wnjoon.github.io/)
+[wnjoon@gmail.com](mailto:wnjoon@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wonjoon/) | [GitHub](https://github.com/wnjoon) | [Blog](https://wnjoon.github.io/)
 
 <br>
 
@@ -134,5 +134,7 @@ Seoul, South Korea | [wnjoon@gmail.com](mailto:wnjoon@gmail.com) | [LinkedIn](ht
 
 ## EDUCATION
 
-* **Chungnam National University** | *M.S. in Computer Science* | *Daejeon, South Korea* | *Mar 2014 – Feb 2018*
-* **Chungnam National University** | *B.S. in Computer Science* | *Daejeon, South Korea* | *Mar 2007 – Feb 2014*
+**M.S. in Computer Science**
+* Chungnam National University | *Mar 2014 – Feb 2018*
+**B.S. in Computer Science**
+* Chungnam National University | *Mar 2007 – Feb 2014*
