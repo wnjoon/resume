@@ -130,6 +130,10 @@ title: Wonjoon Lee - Resume
 * Refactored database schema to remove redundant state storage between modules, significantly reducing disk usage.
     * **PRs:** [#134](https://github.com/babylonlabs-io/btc-staker/pull/134)
 
+**[go-yfinance](https://github.com/wnjoon/go-yfinance)**
+* Maintained and updated the library to feature parity with Python yfinance v1.0.0, providing a complete Go implementation of Yahoo Finance data access.
+* Released: [v1.0.0](https://github.com/wnjoon/go-yfinance/releases/tag/v1.0.0)
+
 <br>
 
 ## SKILLS
