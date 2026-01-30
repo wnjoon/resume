@@ -62,10 +62,15 @@ title: Wonjoon Lee - Resume
 ### Globaleur
 **Lead Backend Engineer** | *CA, United States* | *May 2025 – Present* | Remote
 
-* Decoupled the travel route generation system from a monolithic architecture into independent frontend and backend services, significantly improving maintainability and deployment agility.
-* Redesigned the storage layer using interface-driven patterns to allow flexible database implementations, while identifying and resolving structural bottlenecks and potential performance issues.
-* Refactored the application bootstrapping process to strictly separate component initialization from runtime execution, resulting in a cleaner entry point and enhanced code modularity.
+* System Architecture & Infrastructure
+    * Decoupled the travel route generation system from a monolithic architecture into independent services, significantly improving maintainability and deployment agility.
+    * Redesigned the storage layer using interface-driven patterns to allow flexible database implementations, while identifying and resolving structural bottlenecks.
+    * Refactored the application bootstrapping process to strictly separate component initialization from runtime execution, enhancing code modularity and entry-point clarity.
 
+* AI Integration & Modern Experience
+  * Developed an AI-driven travel curation engine using the various AI SDKs to provide personalized itineraries, restaurant, and tour recommendations.
+  * Architected and implemented a modern, conversational UI with a responsive design, transitioning from a legacy interface to a more intuitive and interactive user experience.
+  * Engineered dynamic scheduling logic through prompt optimization, ensuring high-quality and context-aware suggestions based on user preferences.
 
 ### B-Harvest
 **Blockchain Core R&D Engineer** | *Seoul, South Korea* | *Nov 2024 – Apr 2025* | Hybrid
