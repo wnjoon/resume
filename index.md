@@ -146,6 +146,15 @@ title: Wonjoon Lee - Resume
 * **Languages:** Golang, Solidity, Java, JavaScript/TypeScript, C/C++
 * **Blockchain:** Ethereum (Geth, Besu, Quorum), Hyperledger Fabric, Cosmos SDK
 * **Infrastructure & Tools:** Docker, Kubernetes, Kafka, Foundry, Truffle, Hardhat
+* **AI:** Google ADK, Claude SDK, CrewAI
+
+<br>
+
+## Certifications
+
+* [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/8d5097d6-a122-4a9a-910c-bde73634badc?source=linked_in_profile)
+* [Certified Hyperledger Fabric Administrator (CHFA)](https://www.credly.com/badges/02929a46-7d7c-4c6a-904f-9ff26483ff81?source=linked_in_profile)
+* 정보처리기사
 
 <br>
 
