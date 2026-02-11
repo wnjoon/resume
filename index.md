@@ -150,7 +150,7 @@ title: Wonjoon Lee - Resume
 
 <br>
 
-## Certifications
+## CERTIFICATIONS
 
 * [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/8d5097d6-a122-4a9a-910c-bde73634badc?source=linked_in_profile)
 * [Certified Hyperledger Fabric Administrator (CHFA)](https://www.credly.com/badges/02929a46-7d7c-4c6a-904f-9ff26483ff81?source=linked_in_profile)
