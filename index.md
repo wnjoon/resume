@@ -139,6 +139,9 @@ title: Wonjoon Lee - Resume
 * Maintained and updated the library to feature parity with Python yfinance, providing a complete Go implementation of Yahoo Finance data access.
     * **Releases:** [link](https://github.com/wnjoon/go-yfinance/releases)
 
+**[x402](https://github.com/coinbase/x402)**
+* Contributed to the Go implementation of the x402 library.
+    * **PRs:** [#1327](https://github.com/coinbase/x402/pull/1327), [#1329](https://github.com/coinbase/x402/pull/1329)
 <br>
 
 ## SKILLS
