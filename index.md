@@ -141,7 +141,7 @@ title: Wonjoon Lee - Resume
 
 **[x402](https://github.com/coinbase/x402)**
 * Contributed to the Go implementation of the x402 library.
-    * **PRs:** [#1327](https://github.com/coinbase/x402/pull/1327), [#1329](https://github.com/coinbase/x402/pull/1329)
+    * **PRs:** [#1327](https://github.com/coinbase/x402/pull/1327), [#1329](https://github.com/coinbase/x402/pull/1329), [#1357](https://github.com/coinbase/x402/pull/1357), [#1364](https://github.com/coinbase/x402/pull/1364), [#1370](https://github.com/coinbase/x402/pull/1370), [#1371](https://github.com/coinbase/x402/pull/1371), [#1407](https://github.com/coinbase/x402/pull/1407), [#1421](https://github.com/coinbase/x402/pull/1421), [#1424](https://github.com/coinbase/x402/pull/1424)
 <br>
 
 ## SKILLS
@@ -157,7 +157,7 @@ title: Wonjoon Lee - Resume
 
 * [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/8d5097d6-a122-4a9a-910c-bde73634badc?source=linked_in_profile)
 * [Certified Hyperledger Fabric Administrator (CHFA)](https://www.credly.com/badges/02929a46-7d7c-4c6a-904f-9ff26483ff81?source=linked_in_profile)
-* 정보처리기사
+* 정보처리기사 (19201021770G)
 
 <br>
 
