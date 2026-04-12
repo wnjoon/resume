@@ -139,9 +139,9 @@ title: Wonjoon Lee - Resume
 * Maintained and updated the library to feature parity with Python yfinance, providing a complete Go implementation of Yahoo Finance data access.
     * **Releases:** [link](https://github.com/wnjoon/go-yfinance/releases)
 
-**[x402](https://github.com/coinbase/x402)**
+**[x402](https://github.com/x402-foundation/x402)**
 * Contributed to the Go implementation of the x402 library.
-    * **PRs:** [#1327](https://github.com/coinbase/x402/pull/1327), [#1329](https://github.com/coinbase/x402/pull/1329), [#1357](https://github.com/coinbase/x402/pull/1357), [#1364](https://github.com/coinbase/x402/pull/1364), [#1370](https://github.com/coinbase/x402/pull/1370), [#1371](https://github.com/coinbase/x402/pull/1371), [#1407](https://github.com/coinbase/x402/pull/1407), [#1421](https://github.com/coinbase/x402/pull/1421), [#1424](https://github.com/coinbase/x402/pull/1424)
+    * **PRs:** [#1327](https://github.com/x402-foundation/x402/pull/1327), [#1329](https://github.com/x402-foundation/x402/pull/1329), [#1357](https://github.com/x402-foundation/x402/pull/1357), [#1364](https://github.com/x402-foundation/x402/pull/1364), [#1370](https://github.com/x402-foundation/x402/pull/1370), [#1371](https://github.com/x402-foundation/x402/pull/1371), [#1407](https://github.com/x402-foundation/x402/pull/1407), [#1421](https://github.com/x402-foundation/x402/pull/1421), [#1424](https://github.com/x402-foundation/x402/pull/1424)
 <br>
 
 ## SKILLS
