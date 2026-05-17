@@ -59,8 +59,13 @@ title: Wonjoon Lee - Resume
 
 ## PROFESSIONAL EXPERIENCE
 
+### Mirae Asset Securities
+**Senior Manager** | *Seoul, South Korea* | *May 2026 – Present* | Onsite
+
+* STO platform development in Digital Asset Development Team.
+
 ### Globaleur
-**Lead Backend Engineer** | *CA, United States* | *May 2025 – Present* | Remote
+**Lead Backend Engineer** | *CA, United States* | *May 2025 – Apr 2026* | Remote
 
 * System Architecture & Infrastructure
     * Decoupled the travel route generation system from a monolithic architecture into independent services, significantly improving maintainability and deployment agility.
