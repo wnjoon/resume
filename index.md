@@ -126,6 +126,14 @@ title: Wonjoon Lee - Resume
 
 ## OPEN SOURCE CONTRIBUTIONS
 
+**[go-yfinance](https://github.com/wnjoon/go-yfinance)**
+* Maintained and updated the library to feature parity with Python yfinance, providing a complete Go implementation of Yahoo Finance data access.
+    * **Releases:** [link](https://github.com/wnjoon/go-yfinance/releases)
+
+**[x402](https://github.com/x402-foundation/x402)**
+* Contributed to the Go implementation of the x402 library.
+    * **[PRs](https://github.com/x402-foundation/x402/issues?q=state%3Aclosed%20is%3Apr%20author%3Awnjoon)**
+
 **[Babylon](https://github.com/babylonlabs-io/babylon)**
 * Decoupled BLS keys from `priv_validator_key.json` to enhance validator security and implemented ERC2335 keystore standards.
     * **PRs:** [#396](https://github.com/babylonlabs-io/babylon/pull/396), [#434](https://github.com/babylonlabs-io/babylon/pull/434), [#471](https://github.com/babylonlabs-io/babylon/pull/471), [#558](https://github.com/babylonlabs-io/babylon/pull/558)
@@ -139,14 +147,6 @@ title: Wonjoon Lee - Resume
     * **PRs:** [#131](https://github.com/babylonlabs-io/btc-staker/pull/131), [#157](https://github.com/babylonlabs-io/btc-staker/pull/157)
 * Refactored database schema to remove redundant state storage between modules, significantly reducing disk usage.
     * **PRs:** [#134](https://github.com/babylonlabs-io/btc-staker/pull/134)
-
-**[go-yfinance](https://github.com/wnjoon/go-yfinance)**
-* Maintained and updated the library to feature parity with Python yfinance, providing a complete Go implementation of Yahoo Finance data access.
-    * **Releases:** [link](https://github.com/wnjoon/go-yfinance/releases)
-
-**[x402](https://github.com/x402-foundation/x402)**
-* Contributed to the Go implementation of the x402 library.
-    * **[PRs](https://github.com/x402-foundation/x402/issues?q=state%3Aclosed%20is%3Apr%20author%3Awnjoon)**
 
 <br>
 
