@@ -146,7 +146,8 @@ title: Wonjoon Lee - Resume
 
 **[x402](https://github.com/x402-foundation/x402)**
 * Contributed to the Go implementation of the x402 library.
-    * **PRs:** [#1327](https://github.com/x402-foundation/x402/pull/1327), [#1329](https://github.com/x402-foundation/x402/pull/1329), [#1357](https://github.com/x402-foundation/x402/pull/1357), [#1364](https://github.com/x402-foundation/x402/pull/1364), [#1370](https://github.com/x402-foundation/x402/pull/1370), [#1371](https://github.com/x402-foundation/x402/pull/1371), [#1407](https://github.com/x402-foundation/x402/pull/1407), [#1421](https://github.com/x402-foundation/x402/pull/1421), [#1424](https://github.com/x402-foundation/x402/pull/1424)
+    * **[PRs](https://github.com/x402-foundation/x402/issues?q=state%3Aclosed%20is%3Apr%20author%3Awnjoon)**
+
 <br>
 
 ## SKILLS
